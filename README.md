@@ -1,6 +1,6 @@
 # Unity3D
 The source code in this project is not commented well and is not structured well.
-I build it while ago and in that time I did not worry too much about code readability.
+I did build it while ago, and in that time I did not worry too much about code readability.
 
 Structure:
 	1: Assets include everything you need to build entire Unity3D project on your computer
