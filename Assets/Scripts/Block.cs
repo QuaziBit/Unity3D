@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Author: Olexandr Matveyev
+
+
+using System;
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
