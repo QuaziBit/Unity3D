@@ -1,8 +1,5 @@
-# Unity3D
-The source code in this project is not commented well and is not structured well.
-I did build it while ago, and in that time I did not worry too much about code readability.
+# Here you can get this game for Android
+# [Move Blocks - Demo] (https://play.google.com/store/apps/details?id=com.onebit.blocksdemo)
 
-Structure:
-	1: Assets include everything you need to build entire Unity3D project on your computer
-
+# Here is demo video
 # [YouTube Demo](https://www.youtube.com/watch?v=MLuLFuFMIAc&feature=youtu.be)
